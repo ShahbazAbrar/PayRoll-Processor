@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated Assembly libraries
+lib/*.dll
+lib/*.so
+lib/*.dylib
+
+# Assembly / compiler output
+*.obj
+*.o
+*.exe
+*.lib
+*.a
+*.pdb
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
